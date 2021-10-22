@@ -2,6 +2,31 @@
   text-align: center;
 }
 
+ul {
+  list-style-type: none
+}
+
+li {
+  font-size: 1.2rem;
+  text-transform: capitalize;
+}
+input[type=text]{
+  padding: 1rem 3rem;
+  margin-bottom: 1rem;
+}
+
+input[type=email]{
+  padding: 1rem 3rem;
+  margin-bottom: 1rem;
+}
+input[type=submit]{
+  padding: .5rem 3rem;
+}
+
+
+
+
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
